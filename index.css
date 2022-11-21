@@ -1,0 +1,14 @@
+body {
+    color:black;
+    background-color:rgb(12, 245, 233);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    border: 5px solid pink;
+}
+
+.center {
+    text-align: center;
+}
